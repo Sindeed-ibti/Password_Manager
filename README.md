@@ -12,5 +12,5 @@ Secure storage using 32-byte Fernet symmetric key
 
 Graceful handling of errors and malformed data
 
-#Caution
+# Caution
 For educational use only. Avoid storing sensitive credentials in plaintext files for production use.
